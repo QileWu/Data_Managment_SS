@@ -13,8 +13,8 @@ $ git config --global user.email "my@email.ca"
 blablabla
 
 ## new branch done
-$ git checkout
-jfireinrgei gcnriegr
+$ git checkout -b IntroToGit
+
 
 
 # Markdown Cheatsheet
