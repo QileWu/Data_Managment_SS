@@ -12,6 +12,9 @@ $ git config --global user.email "my@email.ca"
 ... to continue this document with relevant git commands!
 blablabla
 
+## new branch done
+$ git checkout 
+
 # Markdown Cheatsheet
 
 http://commonmark.org/help/
